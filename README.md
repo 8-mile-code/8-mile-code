@@ -51,7 +51,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 ## 🧩 Проекты
-### 🔗 [async-yacut](https://github.com/Serieznee-nekuda17/async-yacut) — это удобный сервис для создания коротких ссылок и асинхронной загрузки файлов на Яндекс.Диск.
+### 🔗 [async-yacut](https://github.com/8-mile-code/async-yacut) — это удобный сервис для создания коротких ссылок и асинхронной загрузки файлов на Яндекс.Диск.
 
 **🛠️ Стек:** Python · Flask · Flask-SQLAlchemy · Alembic · PostgreSQL · Aiohttp · Flask-Migrate · WTForms
 
@@ -65,7 +65,7 @@
 - 📥 Генерация ссылок для скачивания файлов
 - 🔌 REST API для интеграции
 ---
-### 🍽️ [Foodgram](https://github.com/Serieznee-nekuda17/foodgram) — это онлайн-сервис для публикации рецептов, добавления их в избранное и формирования списка покупок.
+### 🍽️ [Foodgram](https://github.com/8-mile-code/foodgram) — это онлайн-сервис для публикации рецептов, добавления их в избранное и формирования списка покупок.
 **🛠️ Стек:** Python · Django · Django REST Framework · PostgreSQL · Docker · Nginx · Gunicorn · Djoser · JWT · React · GitHub Actions
 ### 🚀 Возможности
 
@@ -79,7 +79,7 @@
 - ⚙️ REST API для всех функций
 - 📦 Автоматическая сборка и деплой через GitHub Actions
 ---
-### 🤖 [homework-bot](https://github.com/Serieznee-nekuda17/homework-bot)  — Telegram-бот для автоматической проверки статуса домашних работ на платформе Яндекс.Практикум.
+### 🤖 [homework-bot](https://github.com/8-mile-code/homework-bot)  — Telegram-бот для автоматической проверки статуса домашних работ на платформе Яндекс.Практикум.
 
 **🛠️ Стек:** Python · python-telegram-bot · Requests · python-dotenv · Logging
 
@@ -90,7 +90,7 @@
 - 🛡 Устойчив к сбоям API и сети
 - 📊 Логирует ключевые события и ошибки
 ---
-### 📰 [blogicum](https://github.com/Serieznee-nekuda17/blogicum) — полнофункциональная блог-платформа с публикациями, комментариями и управлением пользователями.
+### 📰 [blogicum](https://github.com/8-mile-code/blogicum) — полнофункциональная блог-платформа с публикациями, комментариями и управлением пользователями.
 
 **🛠️ Стек:** Python · Django · SQLite · Bootstrap 5 · HTML/CSS
 
@@ -103,7 +103,7 @@
 - ✉️ Уведомления через email (файловый бэкенд)
 - 📄 Кастомные страницы ошибок
 ---
-### 🧪 [django-testing](https://github.com/Serieznee-nekuda17/django-testing)  — проект, посвящённый тестированию веб-приложений на Django с помощью `unittest` и `pytest`.
+### 🧪 [django-testing](https://github.com/8-mile-code/django-testing)  — проект, посвящённый тестированию веб-приложений на Django с помощью `unittest` и `pytest`.
 
 **🛠️ Стек:** Python · Django · Pytest · Unittest
 
@@ -115,7 +115,7 @@
 - 🗂 Изоляция данных между пользователями
 - 🛡 Поддержка запуска тестов через `run_tests.sh`
 ---
-### 🐍 [my_snake](https://github.com/Serieznee-nekuda17/my_snake) — классическая игра «Змейка» с таймером, золотыми яблоками и возможностью победы.
+### 🐍 [my_snake](https://github.com/8-mile-code/my_snake) — классическая игра «Змейка» с таймером, золотыми яблоками и возможностью победы.
 
 **🛠️ Стек:** Python · Pygame
 
@@ -137,6 +137,6 @@
 
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serieznee-nekuda17&show_icons=true&theme=dark)](https://github.com/Serieznee-nekuda17/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8-mile-code&show_icons=true&theme=dark)](https://github.com/8-mile-code)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serieznee-nekuda17&layout=compact&theme=dark)](https://github.com/Serieznee-nekuda17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8-mile-code&layout=compact&theme=dark)](https://github.com/8-mile-code)
