@@ -139,8 +139,3 @@
 [![Yandex Mail](https://img.shields.io/badge/Yandex%20Mail-FF0000?style=plastic&logo=yandex&logoColor=white)](mailto:danil.boghatov17@yandex.ru)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-FF6600?style=plastic&logo=headhunter&logoColor=white)](https://hh.ru/resume/8a2939f1ff0f3429a10039ed1f67724a38726e)
 
-
-##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8-mile-code&show_icons=true&theme=dark)](https://github.com/8-mile-code)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8-mile-code&layout=compact&theme=dark)](https://github.com/8-mile-code)
