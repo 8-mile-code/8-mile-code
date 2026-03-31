@@ -54,8 +54,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
 ## 🧩 Проекты
----
 ### 🍽️ [Foodgram](https://github.com/8-mile-code/foodgram) — это онлайн-сервис для публикации рецептов, добавления их в избранное и формирования списка покупок.
 **🛠️ Стек:** Python · Django · Django REST Framework · PostgreSQL · Docker · Nginx · Gunicorn · Djoser · JWT · React · GitHub Actions
 ### 🚀 Возможности
