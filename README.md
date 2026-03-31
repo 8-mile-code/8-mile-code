@@ -55,20 +55,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-## 🧩 Проекты
-### 🔗 [async-yacut](https://github.com/8-mile-code/async-yacut) — это удобный сервис для создания коротких ссылок и асинхронной загрузки файлов на Яндекс.Диск.
-
-**🛠️ Стек:** Python · Flask · Flask-SQLAlchemy · Alembic · PostgreSQL · Aiohttp · Flask-Migrate · WTForms
-
-
-### 🚀 Возможности
-
-- 📎 Укорачивает длинные URL до коротких ссылок
-- ✍️ Возможность задать собственный `short_id`
-- ⚙️ Автоматическая генерация ссылок из 6 символов
-- ☁️ Асинхронная загрузка файлов на Яндекс.Диск
-- 📥 Генерация ссылок для скачивания файлов
-- 🔌 REST API для интеграции
 ---
 ### 🍽️ [Foodgram](https://github.com/8-mile-code/foodgram) — это онлайн-сервис для публикации рецептов, добавления их в избранное и формирования списка покупок.
 **🛠️ Стек:** Python · Django · Django REST Framework · PostgreSQL · Docker · Nginx · Gunicorn · Djoser · JWT · React · GitHub Actions
@@ -83,6 +69,33 @@
 - 🔐 Регистрация, JWT-аутентификация и авторизация
 - ⚙️ REST API для всех функций
 - 📦 Автоматическая сборка и деплой через GitHub Actions
+---
+### 📰 [article_parser_api](https://github.com/8-mile-code/article_parser_api.git) — сервис для парсинга статей по URL
+
+**🛠️ Стек:** FastAPI · PostgreSQL · SQLAlchemy · HTTPX · BeautifulSoup · Docker
+
+### 🚀 Возможности
+- 🔗 Принимает URL статьи
+- 📰 Парсит заголовок и текст статьи
+- 💾 Сохраняет данные в PostgreSQL
+- 🔄 Поддерживает обновление статьи
+- 📦 Запуск через Docker
+- 🔌 REST API
+---
+## 🧩 Проекты
+### 🔗 [async-yacut](https://github.com/8-mile-code/async-yacut) — это удобный сервис для создания коротких ссылок и асинхронной загрузки файлов на Яндекс.Диск.
+
+**🛠️ Стек:** Python · Flask · Flask-SQLAlchemy · Alembic · PostgreSQL · Aiohttp · Flask-Migrate · WTForms
+
+
+### 🚀 Возможности
+
+- 📎 Укорачивает длинные URL до коротких ссылок
+- ✍️ Возможность задать собственный `short_id`
+- ⚙️ Автоматическая генерация ссылок из 6 символов
+- ☁️ Асинхронная загрузка файлов на Яндекс.Диск
+- 📥 Генерация ссылок для скачивания файлов
+- 🔌 REST API для интеграции
 ---
 ### 🤖 [homework-bot](https://github.com/8-mile-code/homework-bot)  — Telegram-бот для автоматической проверки статуса домашних работ на платформе Яндекс.Практикум.
 
@@ -140,3 +153,6 @@
 [![Yandex Mail](https://img.shields.io/badge/Yandex%20Mail-FF0000?style=plastic&logo=yandex&logoColor=white)](mailto:danil.boghatov17@yandex.ru)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-FF6600?style=plastic&logo=headhunter&logoColor=white)](https://hh.ru/resume/8a2939f1ff0f3429a10039ed1f67724a38726e)
 
+## 📊 GitHub статистика
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=8-mile-code&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8-mile-code&layout=compact)
