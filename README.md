@@ -22,6 +22,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-red?style=plastic)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=plastic&logo=fastapi&logoColor=white)
 
 ### 🗃️ Базы данных
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
