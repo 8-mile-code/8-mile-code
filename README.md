@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Profile views](https://komarev.com/ghpvc/?username=8-mile-code&label=views&color=brightgreen)
 # Hi there 👋 I'm Danil Bogatov
 
 ### Python Backend Developer | FastAPI · Django · PostgreSQL · Docker · AI Backend (RAG)
